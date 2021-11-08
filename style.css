@@ -1,0 +1,26 @@
+.body_backgorund 
+{
+    background-image:url('https://images.unsplash.com/photo-1523754569648-43ccb845c9d8?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNjAxOTQ4NQ&ixlib=rb-1.2.1&q=85');
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    margin-top: 30px;
+	border-width:10px;
+	background-image: url('BirthdayImage.jpg'); 
+	border-style:ridge;
+    border-color: #9ae6cb;
+}
+#h1{
+    font-family: 'Dancing Script', cursive;
+    color:#076b69;
+    font-size: 50px;
+    background-color: #42b6f5;
+}
+#V{
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+
+}
